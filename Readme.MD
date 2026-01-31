@@ -1,6 +1,6 @@
 # **Diabarical**
 
-Diabarical is a1 5u wide STM32 12u unibody split alpha stagger style PCB with leafsprings tadpole mounting with [15u bar](https://sneakbox.com/products/weirdkeys?variant=48065165033714) support
+Diabarical is a 15u wide STM32 12u unibody split alpha stagger style PCB with leafsprings tadpole mounting with [15u bar](https://sneakbox.com/products/weirdkeys?variant=48065165033714) support
 
 I wanted a way to use my 15u bars so I made this monstrosity and figured I'd throw some wild bottom row options on there
 
