@@ -20,5 +20,5 @@ I wanted a way to use my 15u bars so I made this monstrosity and figured I'd thr
 ![KLC layout](https://github.com/DashDashUnderscoreDash/DiaBARical-PCB/blob/main/Images/DiaBARical%20KLC.jpg)
 
 ### PCB images
-![PCB Front](https://github.com/DashDashUnderscoreDash/DiaBARical-PCB/blob/main/Images/Diabarical%20PCB%20Front.jpg)
-![PCB Back](https://github.com/DashDashUnderscoreDash/DiaBARical-PCB/blob/main/Images/Diabarical%20PCB%20Back.jpg)
+![PCB Front](https://github.com/DashDashUnderscoreDash/DiaBARical-PCB/blob/main/Images/Diabarical%20PCB%20Front.png)
+![PCB Back](https://github.com/DashDashUnderscoreDash/DiaBARical-PCB/blob/main/Images/Diabarical%20PCB%20Back.png)
